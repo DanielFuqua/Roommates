@@ -12,4 +12,7 @@ namespace Roommates.Models
         public DateTime MovedInDate { get; set; }
         public Room Room { get; set; }
     }
+
+
+
 }
